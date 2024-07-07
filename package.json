@@ -1,0 +1,11 @@
+{
+  "name": "marking-extension",
+  "version": "0.0.1",
+  "description": "A Browser extension for seamless marking of textpassages on a multitude of websites. Lays the foundation for a multitude of tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thierry Jegen",
+  "license": "MIT"
+}
