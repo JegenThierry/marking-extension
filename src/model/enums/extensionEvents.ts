@@ -1,4 +1,4 @@
-enum ExtensionEvents {
+export enum ExtensionEvents {
   CreateAnnotation,
   GetAnnotation,
   GetAllAnnotations,
